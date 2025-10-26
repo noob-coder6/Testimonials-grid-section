@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/noob-coder6/testimonials-grid-section)
-- Live Site URL: [Live Demo](https://noob-coder6.github.io/testimonials-grid-section)
+- Solution URL: [GitHub Repository](https://github.com/noob-coder6/Testimonials-grid-section.git)
+- Live Site URL: [Live Demo](https://noob-coder6.github.io/Testimonials-grid-section/)
 
 ### Built with
 
